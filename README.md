@@ -22,3 +22,4 @@ Here are some of my best projects
 - > **Reproductor Music API Deezer:** [https://github.com/EstivenMayhuay/Foxbel_Music](https://github.com/EstivenMayhuay/Foxbel_Music)
 - > **CRUD CPTress Prensa Digital:** [https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital](https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital)
 - > **CRUD Net Contact Center:** [https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD](https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD)
+- > **Blog Ruta FullStack:** [https://estivenmayhuay.github.io/Ruta-FullStack/](https://estivenmayhuay.github.io/Ruta-FullStack/)
