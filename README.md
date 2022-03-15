@@ -11,6 +11,7 @@ Here the Technologies I used
 - PUG
 - CSS3
 - Vanilla JS
+- React.js (Learning...)
 - Node.js
 - Figma
 - SQL
@@ -23,3 +24,4 @@ Here are some of my best projects
 - > **CRUD CPTress Prensa Digital:** [https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital](https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital)
 - > **CRUD Net Contact Center:** [https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD](https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD)
 - > **Blog Ruta FullStack:** [https://estivenmayhuay.github.io/Ruta-FullStack/](https://estivenmayhuay.github.io/Ruta-FullStack/)
+- > **Home Crypto** [https://github.com/EstivenMayhuay/home_crypto](https://github.com/EstivenMayhuay/home_crypto)
