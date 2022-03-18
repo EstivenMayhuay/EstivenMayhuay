@@ -42,3 +42,25 @@ Here the Technologies I used
 ### **CRUD Net Contact Center**
 
 > **Link:** [https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD](https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD)
+
+<table>
+  <thead>
+    <tr>
+      <th>Foxbel Music</th>
+      <th>Personal Blog</th>
+    <tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p><a href="https://github.com/EstivenMayhuay/Foxbel_Music" target="_blank">https://github.com/EstivenMayhuay/Foxbel_Music</a></p>
+        <img src="https://github.com/EstivenMayhuay/Foxbel_Music/raw/main/public/images/view-desktop-intro.png" alt="foxbel music">
+      </td>
+      <td>
+        <p><a href="https://github.com/EstivenMayhuay/Ruta-FullStack" target="_blank">https://github.com/EstivenMayhuay/Ruta-FullStack</a></p>
+        <img src="https://github.com/EstivenMayhuay/Ruta-FullStack/raw/main/docs/img/view_desktop_light.png" alt="personal blog">
+      </td>
+    </tr>
+
+  </tbody>
+</table>
