@@ -45,6 +45,8 @@ Here the Technologies I used
 
 > **Link:** [https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital](https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital)
 
+![https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital/raw/main/public/images/view-desktop-clientes.png](https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital/raw/main/public/images/view-desktop-clientes.png)
+
 ### **CRUD Net Contact Center**
 
 > **Link:** [https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD](https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD)
