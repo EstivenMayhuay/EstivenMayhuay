@@ -48,3 +48,5 @@ Here the Technologies I used
 ### **CRUD Net Contact Center**
 
 > **Link:** [https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD](https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD)
+
+![net contact center](https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD/raw/main/public/images/view_planes.png)
