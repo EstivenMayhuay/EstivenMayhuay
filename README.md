@@ -10,7 +10,8 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
 
 <ul>
   <li>
-    <a href="https://discord.gg/tqVG9RcB">EMCODY <img style="width: 40px;" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="emcody discord" /></a>
+    <img style="width: 32px;" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="emcody discord" />
+    <a href="https://discord.gg/tqVG9RcB">EMCODY</a>
   </li>
 </ul>
 
