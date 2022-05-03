@@ -62,14 +62,14 @@ Hello everyone! I'm Estiven, I love solving problems with Web Technologies, I'm 
 
 <p style="width: 100%">
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Foxbel_Music">https://github.com/EstivenMayhuay/Foxbel_Music</a></span>
-  <img style="width: 300px" src="https://github.com/EstivenMayhuay/Foxbel_Music/raw/main/public/images/view-desktop-intro.png" alt="foxbel music">
+  <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/Foxbel_Music/raw/main/public/images/view-desktop-intro.png" alt="foxbel music">
 </p>
 
 - ### **Personal Blog FullStack**
 
 <p style="width: 100%">
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Ruta-FullStack">https://github.com/EstivenMayhuay/Ruta-FullStack</a></span>
-  <img style="width: 300px" style="width: 320px" src="https://github.com/EstivenMayhuay/Ruta-FullStack/raw/main/docs/img/view_desktop_light.png" alt="personal blog fullstack">
+  <img style="display: block; width: 300px" style="width: 320px" src="https://github.com/EstivenMayhuay/Ruta-FullStack/raw/main/docs/img/view_desktop_light.png" alt="personal blog fullstack">
 </p>
 
 - ### **Home Crypto**
