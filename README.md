@@ -1,6 +1,6 @@
 ## **Estiven Mayhuay 🙋🤠**
 
-Hello Everyone! I'm love solve problems with the Technologies, I'm study for be _Frontend Developer_, but also I love learn new things
+Hello everyone! I'm Estiven, I love solving problems with Web Technologies, I'm studying to be a **Frontend Developer**. I love learning new technologies, teaching other people and sharing what I know. 💁 I hope my projects interest you. 😀
 
 ### **Technologies**
 
