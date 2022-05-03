@@ -2,7 +2,7 @@
 
 Hello everyone! I'm Estiven, I love solving problems with Web Technologies, I'm studying to be a **Frontend Developer**. I love learning new technologies, teaching other people and sharing what I know. 💁 I hope my projects interest you. 😀
 
-### **Technologies**
+## **Technologies**
 
 <table border="0" style="border-collapse: none">
   <thead>
@@ -56,7 +56,7 @@ Hello everyone! I'm Estiven, I love solving problems with Web Technologies, I'm 
   </tbody>
 </table>
 
-### **My Projects**
+## **My Pojects**
 
 - ### **Foxbel Music**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Foxbel_Music">https://github.com/EstivenMayhuay/Foxbel_Music</a></span>
