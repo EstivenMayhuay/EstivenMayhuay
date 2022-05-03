@@ -84,9 +84,15 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
 - ### **Foxbel Music**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Foxbel_Music">https://github.com/EstivenMayhuay/Foxbel_Music</a></span>
 
+<div style="display: flex; flex-flow: row; column-gap: 16px;">
 <p style="width: 100%">
   <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/Foxbel_Music/raw/main/public/images/view-desktop-intro.png" alt="foxbel music">
 </p>
+
+<p style="width: 100%">
+  <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/Foxbel_Music/raw/main/public/images/view-desktop-intro.png" alt="foxbel music">
+</p>
+</div>
 
 - ### **Personal Blog FullStack**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Ruta-FullStack">https://github.com/EstivenMayhuay/Ruta-FullStack</a></span>
