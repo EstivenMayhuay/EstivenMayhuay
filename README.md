@@ -4,7 +4,7 @@ Hello Everyone! I'm love solve problems with the Technologies, I'm study for be 
 
 ### **Technologies**
 
-<table border="0.5">
+<table border="0" style="border-collapse: none">
   <thead>
     <tr style="background: #8040ea">
       <th style="color: #fff;">Frontend</th>
