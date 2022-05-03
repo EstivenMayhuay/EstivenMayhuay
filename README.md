@@ -12,8 +12,8 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
 
 <ul>
   <li>
-    <img style="width: 32px;" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="emcody discord" />
-    <a href="https://discord.gg/tqVG9RcB">EMCODY</a>
+    <img style="width: 24px;" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="emcody discord" />
+    <a href="https://discord.gg/tqVG9RcB">EMCODY Discord</a>
   </li>
 </ul>
 
