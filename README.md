@@ -2,6 +2,42 @@
 
 Hello Everyone! I'm love solve problems with the Technologies, I'm study for be _Frontend Developer_, but also I love learn new things
 
+<table>
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+    </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css3" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img style="width: 40px" src="https://cdn.svgporn.com/logos/less.svg" alt="less">
+      </td>
+    </td>
+  </tbody>
+</table>
+
 ## **Technologies**
 
 Here the Technologies I used
