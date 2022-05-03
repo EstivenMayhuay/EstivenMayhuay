@@ -2,6 +2,8 @@
 
 Hello Everyone! I'm love solve problems with the Technologies, I'm study for be _Frontend Developer_, but also I love learn new things
 
+### **Technologies**
+
 <table border="0.5">
   <thead>
     <tr style="background: #8040ea">
@@ -53,19 +55,6 @@ Hello Everyone! I'm love solve problems with the Technologies, I'm study for be 
     </tr>
   </tbody>
 </table>
-
-## **Technologies**
-
-Here the Technologies I used
-
-- HTML5
-- PUG
-- CSS3
-- Vanilla JS
-- React.js (Learning...)
-- Node.js
-- Figma
-- SQL
 
 ## **Projects**
 
