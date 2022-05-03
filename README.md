@@ -7,6 +7,7 @@ Hello Everyone! I'm love solve problems with the Technologies, I'm study for be 
     <tr style="background: #8040ea">
       <th style="color: #fff;">Frontend</th>
       <th style="color: #fff;">Backend</th>
+      <th style="color: #fff;">Other Tools</th>
     </th>
   </thead>
   <tbody>
@@ -17,6 +18,9 @@ Hello Everyone! I'm love solve problems with the Technologies, I'm study for be 
       <td>
         <img style="width: 40px;" src="https://cdn.svgporn.com/logos/pug.svg" alt="pug" />
       </td>
+      <td>
+        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" />
+      </td>
     </td>
     <tr>
       <td>
@@ -24,6 +28,9 @@ Hello Everyone! I'm love solve problems with the Technologies, I'm study for be 
       </td>
       <td>
         <img style="width: 40px;" src="https://cdn.svgporn.com/logos/mysql.svg" alt="sql">
+      </td>
+      <td>
+        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/figma.svg" alt="figma" />
       </td>
     </tr>
     <tr>
