@@ -27,11 +27,6 @@ Hello Everyone! I'm love solve problems with the Technologies, I'm study for be 
     </tr>
     <tr>
       <td>
-        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5" />
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img style="width: 40px" src="https://cdn.svgporn.com/logos/less.svg" alt="less">
       </td>
     </td>
