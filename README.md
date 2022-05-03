@@ -2,11 +2,11 @@
 
 Hello Everyone! I'm love solve problems with the Technologies, I'm study for be _Frontend Developer_, but also I love learn new things
 
-<table>
+<table border="0.5">
   <thead>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
+    <tr style="background: #8040ea">
+      <th style="color: #fff;">Frontend</th>
+      <th style="color: #fff;">Backend</th>
     </th>
   </thead>
   <tbody>
