@@ -56,40 +56,46 @@ Hello everyone! I'm Estiven, I love solving problems with Web Technologies, I'm 
   </tbody>
 </table>
 
-## **Projects**
+### **My Projects**
 
-### **Foxbel Music**
+- ### **Foxbel Music**
 
-> **Link:** [https://github.com/EstivenMayhuay/Foxbel_Music](https://github.com/EstivenMayhuay/Foxbel_Music)
+<p style="width: 280px">
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Foxbel_Music">https://github.com/EstivenMayhuay/Foxbel_Music</a></span>
+  <img src="https://github.com/EstivenMayhuay/Foxbel_Music/raw/main/public/images/view-desktop-intro.png" alt="foxbel music">
+</p>
 
-![foxbel music](https://github.com/EstivenMayhuay/Foxbel_Music/raw/main/public/images/view-desktop-intro.png)
+- ### **Personal Blog FullStack**
 
-### **Personal Blog FullStack**
+<p style="width: 280px">
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Ruta-FullStack">https://github.com/EstivenMayhuay/Ruta-FullStack</a></span>
+  <img src="https://github.com/EstivenMayhuay/Ruta-FullStack/raw/main/docs/img/view_desktop_light.png" alt="personal blog fullstack">
+</p>
 
-> **Link:** [https://github.com/EstivenMayhuay/Ruta-FullStack](https://github.com/EstivenMayhuay/Ruta-FullStack)
+- ### **Home Crypto**
 
-![personal blog fullstack](https://github.com/EstivenMayhuay/Ruta-FullStack/raw/main/docs/img/view_desktop_light.png)
+<p style="width: 280px">
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/home_crypto">https://github.com/EstivenMayhuay/home_crypto</a></span>
+  <img src="https://github.com/EstivenMayhuay/home_crypto/raw/main/src/images/view_desktop_home.png" alt="Home Crypto">
+</p>
 
-### **Home Crypto**
+- ### **UTP CENTER**
 
-> **Link** [https://github.com/EstivenMayhuay/home_crypto](https://github.com/EstivenMayhuay/home_crypto)
+<p style="width: 280px">
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/UTP-CENTER">https://github.com/EstivenMayhuay/UTP-CENTER</a></span>
+  <img src="https://github.com/EstivenMayhuay/UTP-CENTER/raw/main/public/images/utp-center-desktop.png" alt="UTP Center">
+</p>
 
-![home cryptos](https://github.com/EstivenMayhuay/home_crypto/raw/main/src/images/view_desktop_home.png)
+- ### **CRUD CPTress Prensa Digital**
 
-### **UTP CENTER**
+<p style="width: 280px">
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital">https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital</a></span>
+  <img src="https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital/raw/main/public/images/view-desktop-clientes.png" alt="CRUD CPTress Prensa Digital">
+</p>
 
-> **Link:** [https://github.com/EstivenMayhuay/UTP-CENTER](https://github.com/EstivenMayhuay/UTP-CENTER)
+- ### **CRUD Net Contact Center**
 
-![https://github.com/EstivenMayhuay/UTP-CENTER/raw/main/public/images/utp-center-desktop.png](https://github.com/EstivenMayhuay/UTP-CENTER/raw/main/public/images/utp-center-desktop.png)
-
-### **CRUD CPTress Prensa Digital**
-
-> **Link:** [https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital](https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital)
-
-![https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital/raw/main/public/images/view-desktop-clientes.png](https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital/raw/main/public/images/view-desktop-clientes.png)
-
-### **CRUD Net Contact Center**
-
-> **Link:** [https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD](https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD)
-
-![net contact center](https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD/raw/main/public/images/view_planes.png)
+<p style="width: 280px">
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD">https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD</a></span>
+  <img src="https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD/raw/main/public/images/view_planes.png" alt="CRUD Net Contact Center">
+</p>
