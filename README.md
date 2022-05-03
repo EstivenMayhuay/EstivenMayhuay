@@ -80,22 +80,22 @@ Hello everyone! I'm Estiven, I love solving problems with Web Technologies, I'm 
 </p>
 
 - ### **UTP CENTER**
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/UTP-CENTER">https://github.com/EstivenMayhuay/UTP-CENTER</a></span>
 
 <p style="width: 100%">
   <img style="width: 300px" src="https://github.com/EstivenMayhuay/UTP-CENTER/raw/main/public/images/utp-center-desktop.png" alt="UTP Center">
-  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/UTP-CENTER">https://github.com/EstivenMayhuay/UTP-CENTER</a></span>
 </p>
 
 - ### **CRUD CPTress Prensa Digital**
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital">https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital</a></span>
 
 <p>
   <img style="width: 300px" src="https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital/raw/main/public/images/view-desktop-clientes.png" alt="CRUD CPTress Prensa Digital">
-  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital">https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital</a></span>
 </p>
 
 - ### **CRUD Net Contact Center**
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD">https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD</a></span>
 
 <p>
-  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD">https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD</a></span>
   <img style="width: 300px" src="https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD/raw/main/public/images/view_planes.png" alt="CRUD Net Contact Center">
 </p>
