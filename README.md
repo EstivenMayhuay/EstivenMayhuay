@@ -14,10 +14,16 @@ Hello Everyone! I'm love solve problems with the Technologies, I'm study for be 
       <td>
         <img style="width: 40px;" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5" />
       </td>
-    </tr>
+      <td>
+        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/pug.svg" alt="pug" />
+      </td>
+    </td>
     <tr>
       <td>
         <img style="width: 40px;" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css3" />
+      </td>
+      <td>
+        <img style="width: 40px;" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="node.js">
       </td>
     </tr>
     <tr>
