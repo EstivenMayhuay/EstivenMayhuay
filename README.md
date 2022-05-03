@@ -2,6 +2,18 @@
 
 Hello everyone! I'm Estiven, I love solving problems with Web Technologies, I'm studying to be a **Frontend Developer**. I love learning new technologies, teaching other people and sharing what I know. 💁 I hope my projects interest you. 😀
 
+## **Community**
+
+![emcody community](https://document-export.canva.com/UNFdA/DAEzSUUNFdA/92/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220503T021412Z&X-Amz-Expires=71324&X-Amz-Signature=2342d005618fc74490968a9d657a8035639c02ad716a0b6324d8aa8b06f780f8&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2003%20May%202022%2022%3A02%3A56%20GMT)
+
+We have a community call **EMCODY**. It help you to learn new web technologies. If you are interesting please check the following links:
+
+<ul>
+  <li>
+    <a href="https://discord.gg/tqVG9RcB">EMCODY <img style="width: 40px;" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="emcody discord" /></a>
+  </li>
+</ul>
+
 ## **Technologies**
 
 <table border="0" style="border-collapse: none">
