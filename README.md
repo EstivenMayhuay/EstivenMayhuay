@@ -13,7 +13,11 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
 <ul>
   <li>
     <img style="width: 24px;" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="emcody discord" />
-    <a href="https://discord.gg/tqVG9RcB">EMCODY Discord</a>
+    <a target="_blank" href="https://discord.gg/tqVG9RcB">EMCODY Discord</a>
+  </li>
+  <li>
+    <img style="width: 24px;" src="https://cdn.svgporn.com/logos/youtube-icon.svg" alt="emcody youtube" />
+    <a target="_blank" href="https://www.youtube.com/channel/UCKmXlegNzxRIhWz1vP1YuZw">EMCODY YouTube</a>
   </li>
 </ul>
 
