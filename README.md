@@ -78,6 +78,14 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
 
 ## **My Pojects**
 
+- ### **EMCODY**
+
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Foxbel_Music">https://github.com/EstivenMayhuay/Foxbel_Music</a></span>
+
+<p style="width: 100%">
+  <img style="display: block; width: 300px" src="./images/view-desktop-emcody.png" alt="foxbel music">
+</p>
+
 - ### **Foxbel Music**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Foxbel_Music">https://github.com/EstivenMayhuay/Foxbel_Music</a></span>
 
