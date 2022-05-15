@@ -12,16 +12,13 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
 
 <ul>
   <li>
-    <a target="_blank" style="underline: none; color: #eee;" href="https://discord.gg/tqVG9RcB">EMCODY Discord </a>
-    <img style="width: 16px;" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="emcody discord" />
+    <a target="_blank" style="underline: none; color: #eee;" href="https://discord.gg/tqVG9RcB">Discord </a>
   </li>
   <li>
-    <a target="_blank" style="underline: none; color: #eee;" href="https://www.youtube.com/channel/UCKmXlegNzxRIhWz1vP1YuZw">EMCODY YouTube </a>
-    <img style="width: 16px;" src="https://cdn.svgporn.com/logos/youtube-icon.svg" alt="emcody youtube" />
+    <a target="_blank" style="underline: none; color: #eee;" href="https://www.youtube.com/channel/UCKmXlegNzxRIhWz1vP1YuZw">YouTube </a>
   </li>
     <li>
-    <a target="_blank" style="underline: none; color: #eee;" href="https://estivenmayhuay.github.io/emcody/index.html">EMCODY Blog </a>
-    <img style="width: 16px;" src="https://cdn.svgporn.com/logos/blogger.svg" alt="emcody blog" />
+    <a target="_blank" style="underline: none; color: #eee;" href="https://estivenmayhuay.github.io/emcody/index.html">Blog </a>
   </li>
 </ul>
 
