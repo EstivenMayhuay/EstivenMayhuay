@@ -94,12 +94,12 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
   <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/Ruta-FullStack/raw/main/docs/img/view_desktop_light.png" alt="blog fullstack">
 </p>
 
-- ### **Foxbel Music**
+<!-- - ### **Foxbel Music**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Foxbel_Music">https://github.com/EstivenMayhuay/Foxbel_Music</a></span>
 
 <p style="width: 100%">
   <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/Foxbel_Music/raw/main/public/images/view-desktop-intro.png" alt="foxbel music">
-</p>
+</p> -->
 
 - ### **Home Crypto**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/home_crypto">https://github.com/EstivenMayhuay/home_crypto</a></span>
@@ -115,16 +115,16 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
   <img style="width: 300px" src="https://github.com/EstivenMayhuay/UTP-CENTER/raw/main/public/images/utp-center-desktop.png" alt="UTP Center">
 </p>
 
-- ### **CRUD CPTress Prensa Digital**
+<!-- - ### **CRUD CPTress Prensa Digital**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital">https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital</a></span>
 
 <p>
   <img style="width: 300px" src="https://github.com/EstivenMayhuay/CRUD-CPTress-Prensa-Digital/raw/main/public/images/view-desktop-clientes.png" alt="CRUD CPTress Prensa Digital">
-</p>
+</p> -->
 
-- ### **CRUD Net Contact Center**
+<!-- - ### **CRUD Net Contact Center**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD">https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD</a></span>
 
 <p>
   <img style="width: 300px" src="https://github.com/EstivenMayhuay/NET-CONTACT-CENTER-CRUD/raw/main/public/images/view_planes.png" alt="CRUD Net Contact Center">
-</p>
+</p> -->
