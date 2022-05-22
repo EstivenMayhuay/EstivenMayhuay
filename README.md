@@ -101,6 +101,22 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
   <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/Ruta-FullStack/raw/main/docs/img/view_desktop_light.png" alt="blog fullstack">
 </p>
 
+- ### **APP consume Predict Model M.L**
+
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/App_Model_Machine_Learning">https://github.com/EstivenMayhuay/App_Model_Machine_Learning</a></span>
+
+<p style="width: 100%">
+  <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/App_Model_Machine_Learning/raw/main/images/view_titanic.png" alt="app consume predict model machine learning">
+</p>
+
+- ### **API Rest Machine Learning**
+
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/API_Azure_Machine_Learning">https://github.com/EstivenMayhuay/API_Azure_Machine_Learning</a></span>
+
+<p style="width: 100%">
+  <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/API_Azure_Machine_Learning/raw/main/public/images/view_emcody_ml.png" alt="api rest machine learning">
+</p>
+
 <!-- - ### **Foxbel Music**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Foxbel_Music">https://github.com/EstivenMayhuay/Foxbel_Music</a></span>
 
