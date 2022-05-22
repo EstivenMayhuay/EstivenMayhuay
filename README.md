@@ -86,6 +86,13 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
   <img style="display: block; width: 300px" src="./images/view-desktop-emcody.png" alt="emcody">
 </p>
 
+- ### **UTP CENTER**
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/UTP-CENTER">https://github.com/EstivenMayhuay/UTP-CENTER</a></span>
+
+<p style="width: 100%">
+  <img style="width: 300px" src="https://github.com/EstivenMayhuay/UTP-CENTER/raw/main/public/images/utp-center-desktop.png" alt="UTP Center">
+</p>
+
 - ### **Blog FullStack**
 
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Ruta-FullStack">https://github.com/EstivenMayhuay/Ruta-FullStack</a></span>
@@ -114,13 +121,6 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
 
 <p style="width: 100%">
   <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/Sensor_Motor/raw/main/images/prototipo-1.jpg" alt="sensor motor">
-</p>
-
-- ### **UTP CENTER**
-  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/UTP-CENTER">https://github.com/EstivenMayhuay/UTP-CENTER</a></span>
-
-<p style="width: 100%">
-  <img style="width: 300px" src="https://github.com/EstivenMayhuay/UTP-CENTER/raw/main/public/images/utp-center-desktop.png" alt="UTP Center">
 </p>
 
 <!-- - ### **CRUD CPTress Prensa Digital**
