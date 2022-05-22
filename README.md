@@ -108,6 +108,14 @@ We have a community call **EMCODY**. It help you to learn new web technologies. 
   <img style="width: 300px" src="https://github.com/EstivenMayhuay/home_crypto/raw/main/src/images/view_desktop_home.png" alt="Home Crypto">
 </p>
 
+- ### **Sensor Motor**
+
+  <span>Repositorio: <a href="https://github.com/EstivenMayhuay/Sensor_Motor">https://github.com/EstivenMayhuay/Sensor_Motor</a></span>
+
+<p style="width: 100%">
+  <img style="display: block; width: 300px" src="https://github.com/EstivenMayhuay/Sensor_Motor/raw/main/images/prototipo-1.jpg" alt="sensor motor">
+</p>
+
 - ### **UTP CENTER**
   <span>Repositorio: <a href="https://github.com/EstivenMayhuay/UTP-CENTER">https://github.com/EstivenMayhuay/UTP-CENTER</a></span>
 
